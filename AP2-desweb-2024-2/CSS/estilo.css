@@ -1,0 +1,48 @@
+
+body{
+    margin: 0;
+}
+
+#login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    background-color: rgb(210, 233, 247);
+}
+
+#areaLogin{
+    text-align: center;
+    flex: 0.6 1 0%;
+}
+
+#entrar{
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5%;
+
+
+    font-size: 12px;
+    padding: 4px 5px;
+
+    margin: 0px 0px 0px 10px;
+}
+
+
+#senha{
+    height: 20px;
+    padding: 0.3em;
+    margin: 0.5em;
+
+}
+
+
+#titulo_login{
+    margin: 0px 0px 0px;
+    
+}
+
